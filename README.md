@@ -20,8 +20,8 @@ Converting the digital output signals to an analog output using the binary-weigh
 
 *DAC allows the software to create music. In the simulator mode, the output voltage Vout is called DACOUT*.
 
-The second step is to design a low-level device driver for the DAC.
-The third step is to design a low-level device driver for the four keys of the piano. 
+The second step is to design a low-level device driver for the DAC.\
+The third step is to design a low-level device driver for the four keys of the piano. \
 The fourth step is to organize the sound generation software into a device driver
 
 The wave should be generated whenever one key is pressed and held. These are the standard frequencies which your digital piano must produce:
